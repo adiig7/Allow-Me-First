@@ -13,5 +13,5 @@ Allow Me First is a whitelisting dapp for NFT collection named Crypto Devs.
 
 <br />
 
-⚠️ Note - Make sure you are connected to Rinkeby Test Network before using it.
+⚠️ <b>Note - Make sure you are connected to Rinkeby Test Network before using it.</b>
 
