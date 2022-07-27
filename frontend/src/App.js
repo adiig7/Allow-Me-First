@@ -181,12 +181,12 @@ export default function Home() {
     <div>
       <div className="main">
         <div>
-          <h1 className="title">Welcome to Crypto Devs!</h1>
+          <h1 className="title">Welcome to Allow Me First!</h1>
           <div className ="description">
-            Its an NFT collection for developers in Crypto.
+            CryptoDevs is an NFT collection for developers in Crypto.
           </div>
           <div className="description">
-            {numberOfWhitelisted} have already joined the Whitelist
+            {numberOfWhitelisted} have already joined the Whitelist. When will you? 👀
           </div>
           {renderButton()}
         </div>
